@@ -1,8 +1,8 @@
-# Towards Evidence Extraction: Analysis of Scientific Figures from Studies of Molecular Interactions
+# Building Deep Learning Models for Evidence Classification from the Open Access Biomedical Literature
 
 This repository describes a [Research Object](http://www.researchobject.org/) for the data and analysis reported in the paper:
 
-> Burns, et al (2018) "Towards Evidence Extraction: Analysis of Scientific Figures from Studies of Molecular Interactions" [SemSci Workshop 2018](https://semsci.github.io/SemSci2018/). 
+> Burns, et al (2019) "Building Deep Learning Models for Evidence Classification from the Open Access Biomedical Literature, submitted to Biocuration 2019. 
 
 The [manifest.ttl](manifest.ttl) file provides linked data for the resources (software and data) used in the data processing that generated this paper. This involves links to three datasets hosted on Zenodo and three software tools hosted on Github. None of these resources are currently linked data / research objects, but we will seek to incorporate more detailed semantic representations of these elements going forward.
 
