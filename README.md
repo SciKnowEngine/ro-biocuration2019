@@ -16,4 +16,3 @@ The [manifest.ttl](manifest.ttl) file provides linked data for the resources (so
 
 * [<https://doi.org/10.5281/zenodo.1315036>](https://doi.org/10.5281/zenodo.1315036) - 'Molecular Biology Open Access Pubmed Word and Sentence Representations'
 * [<https://doi.org/10.5281/zenodo.1315021>](https://doi.org/10.5281/zenodo.1315021) - 'Method Classification of Open Access INTACT Molecular Interaction data.'
-* [<https://doi.org/10.5281/zenodo.1319051>](https://doi.org/10.5281/zenodo.1319051) - 'Partitioned Image Data for Machine Learning Analysis of Molecular Biology Figures'
